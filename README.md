@@ -125,7 +125,7 @@ Resultado de 10,000 simulaciones con el modelo final:
 | 1 | 🇪🇸 España | 20.4% |
 | 2 | 🇦🇷 Argentina | 16.6% |
 | 3 | 🇫🇷 Francia | 8.2% |
-| 4 | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | 6.1% |
+| 4 |  Inglaterra | 6.1% |
 | 5 | 🇩🇪 Alemania | 5.7% |
 | 6 | 🇵🇹 Portugal | 5.4% |
 | 7 | 🇧🇷 Brasil | 4.5% |
@@ -145,26 +145,6 @@ Que ninguna selección supere el 21% refleja la **incertidumbre real del fútbol
 
 ---
 
-## Estructura del repositorio
-
-```
-mundial2026-ml/
-│
-├── README.md                          ← este archivo
-├── PROYECTO_MACHINELEARNING_2026.ipynb ← notebook principal
-├── data/
-│   └── results.csv                    ← dataset (o link a Kaggle)
-├── imagenes/
-│   ├── distribucion_resultados.png
-│   ├── matriz_correlacion.png
-│   ├── matrices_confusion.png
-│   ├── elo_vs_fifa.png
-│   └── prediccion_mundial.png
-└── resultados/
-    └── probabilidades_campeon.csv
-```
-
----
 
 ## Cómo ejecutarlo
 
